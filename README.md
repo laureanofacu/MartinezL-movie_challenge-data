@@ -22,9 +22,9 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 4. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con los géneros thriller y romance.Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
 
 ## Visualizaciones
-1. **Ganancia promedio y rating promedio por género:**
+1. **Ganancia y rating promedio por género:**
 
-
+![Ganancia y Rating promedio por genero](ganancia_rating_por_genero.png)
    
 2. **Evolución de ratings IMDB y ganancias por año:**
 
