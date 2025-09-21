@@ -42,5 +42,5 @@ Los géneros de comedia y drama, requieren una menor inversión para la recaudac
 
 ## Conclusión
 En el análisis realizado se puede observar patrones interesantes en los datos de películas, permitiendo identificar los géneros más rentables, la evolución de calificaciones y la relación entre inversión y ganancias.
-Cabe destacar que la cantidad de daos era limitada, lo que puede afectar en algunas columnas la robustez de los resultados, por lo que los patrones que se observaron son indicativos.
+Cabe destacar que la cantidad de datos era limitada, lo que puede afectar en algunas columnas la robustez de los resultados, por lo que los patrones que se observaron son indicativos.
 Para analisis futuros, sería interesante incluir mayor cantidad de peliculas de generos variados, duración de las mismas, país de producción y paises o areas donde generaron mas recaudación, entre otros, para obtener conclusiones mas precisas.
