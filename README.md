@@ -5,7 +5,6 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 ## Contenido del repositorio
 - `moviesdataset_clean.csv` → dataset limpio, listo para análisis.
 - `MartinezL-movie_challenge-data.ipynb` → notebook con la limpieza, análisis y gráficos.
-- `README.md`
 
 ## Limpieza de datos
 - Se eliminaron filas con valores nulos en columnas clave (`Genre`, `Budget`, `Revenue`, `IMDB_Rating`).
