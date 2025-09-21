@@ -22,9 +22,11 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 
 Se observo que los generos mas rentables son en primer lugar drama y comedia, seguidos por gran diferencia por acción, fantasia y romance. El género que menos rentabilidad tiene es el de thriller, lo cual se puede deber a la inversión que se debe realizar para llevar a cabo cada pelicula (efectos especiales, maquillaje, escenografías, etc)
 
-2. **Tendencia de rating por género:** Los géneros que mejor promedio de puntuación de rating obtuvieron son: Acción, comedia, drama y thriller. Los géneros romance y fantasia obtuvieron un promedio de rating por debajo de 5.
+2. **Tendencia de rating por género:** 
 
 ![Tendencia de rating por géneros](rating_por_genero.png)
+
+Los géneros que mejor promedio de puntuación de rating obtuvieron son: Acción, comedia, drama y thriller. Los géneros romance y fantasia obtuvieron un promedio de rating por debajo de 5.
    
 3. **Relacion beneficio neto-rating por género:** 
 
