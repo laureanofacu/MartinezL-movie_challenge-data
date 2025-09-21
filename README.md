@@ -32,7 +32,7 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
    
 3. **Relación presupuesto vs recaudación por género:**
 
-![Relación presupuesto vs recaudación por género](comparacion_inversionvsrecaudacion_por_genero.png)
+![Relación presupuesto vs recaudación por género]
 
 
 ## Conclusión
