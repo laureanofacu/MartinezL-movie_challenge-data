@@ -22,24 +22,17 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 
 Se observo que los generos mas rentables son en primer lugar drama y comedia, seguidos por gran diferencia por acción, fantasia y romance. El género que menos rentabilidad tiene es el de thriller, lo cual se puede deber a la inversión que se debe realizar para llevar a cabo cada pelicula (efectos especiales, maquillaje, escenografías, etc)
 
-
 2. **Tendencia de rating por género:** Los géneros que mejor promedio de puntuación de rating obtuvieron son: Acción, comedia, drama y thriller. Los géneros romance y fantasia obtuvieron un promedio de rating por debajo de 5.
-4. **Relacion ganancia neta-rating por género:** Se puede observar que hay una tendencia a que cuando el rating promedio de los géneros son buenos, las ganancias de los mismos también lo han sido. Por ende, podemos establecer a primera vista una relacion directa entre ambos.
-5. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con thriller y romance. Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
 
-## Visualizaciones
-1. **Ganancia y rating promedio por género:**
-
-
+![Tendencia de rating por géneros](rating_por_genero.png)
    
-2. **Evolución de ratings IMDB y ganancias por año:**
+3. **Relacion beneficio neto-rating por género:** Se puede observar que hay una tendencia a que cuando el rating promedio de los géneros son buenos, las ganancias de los mismos también lo han sido. Por ende, podemos establecer a primera vista una relacion directa entre ambos.
 
 ![Evolución de ratings y ganancias por año](evolucion_ganancia_rating_por_anio.png)
    
-3. **Relación presupuesto vs recaudación por género:**
+4. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con thriller y romance. Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
 
 ![Relación presupuesto vs recaudación por género](comparacion_inversionvsrecaudacion_por_genero.png)
-
 
 ## Conclusión
 En el análisis realizado se puede observar patrones interesantes en los datos de películas, permitiendo identificar los géneros más rentables, la evolución de calificaciones y la relación entre inversión y ganancias.
