@@ -28,7 +28,7 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
    
 2. **Evolución de ratings IMDB y ganancias por año:**
 
-![Evolución de ratings y ganancias por año](comparacion_inversionvsrecaudacion_por_genero.png)
+![Evolución de ratings y ganancias por año](evolucion_ganancia_rating_por_anio.png)
    
 3. **Relación presupuesto vs recaudación por género:**
 
