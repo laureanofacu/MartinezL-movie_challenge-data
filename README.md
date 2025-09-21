@@ -19,7 +19,7 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 1. **Géneros más rentables:** Se observo que los generos mas rentables son en primer lugar drama y comedia, seguidos por gran diferencia por acción, fantasia y romance. El género que menos rentabilidad tiene es el de thriller, lo cual se puede deber a la inversión que se debe realizar para llevar a cabo cada pelicula (efectos especiales, maquillaje, escenografías, etc)
 2. **Tendencia de rating por género:** Los géneros que mejor promedio de puntuación de rating obtuvieron son: Acción, comedia, drama y thriller. Los géneros romance y fantasia obtuvieron un promedio de rating por debajo de 5.
 3. **Relacion ganancia neta-rating por género:** Se puede observar que hay una tendencia a que cuando el rating promedio de los géneros son buenos, las ganancias de los mismos también lo han sido. Por ende, podemos establecer a primera vista una relacion directa entre ambos.
-4. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con los géneros thriller y romance.Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
+4. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con thriller y romance. Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
 
 ## Visualizaciones
 1. **Ganancia y rating promedio por género:**
@@ -36,3 +36,6 @@ Este proyecto consiste en el analisis de un dataset de películas, que incluyen:
 
 
 ## Conclusión
+En el análisis realizado se puede observar patrones interesantes en los datos de películas, permitiendo identificar los géneros más rentables, la evolución de calificaciones y la relación entre inversión y ganancias.
+Cabe destacar que la cantidad de daos era limitada, lo que puede afectar en algunas columnas la robustez de los resultados, por lo que los patrones que se observaron son indicativos.
+Para analisis futuros, sería interesante incluir mayor cantidad de peliculas de generos variados, duración de las mismas, país de producción y paises o areas donde generaron mas recaudación, entre otros, para obtener conclusiones mas precisas.
