@@ -26,13 +26,17 @@ Se observo que los generos mas rentables son en primer lugar drama y comedia, se
 
 ![Tendencia de rating por géneros](rating_por_genero.png)
    
-3. **Relacion beneficio neto-rating por género:** Se puede observar que hay una tendencia a que cuando el rating promedio de los géneros son buenos, las ganancias de los mismos también lo han sido. Por ende, podemos establecer a primera vista una relacion directa entre ambos.
+3. **Relacion beneficio neto-rating por género:** 
 
 ![Evolución de ratings y ganancias por año](evolucion_ganancia_rating_por_anio.png)
+
+Se puede observar que hay una tendencia a que cuando el rating promedio de los géneros son buenos, las ganancias de los mismos también lo han sido. Por ende, podemos establecer a primera vista una relacion directa entre ambos.
    
-4. **Relación presupuesto–ingreso:** Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con thriller y romance. Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
+4. **Relación presupuesto–ingreso:** 
 
 ![Relación presupuesto vs recaudación por género](comparacion_inversionvsrecaudacion_por_genero.png)
+
+Los géneros de comedia y drama, requieren una menor inversión para la recaudación obtenida en comparación con thriller y romance. Los géneros fantasia y acción generan ganancias pero la diferencia entre el presupuesto y la recaudación es mas pequeña.
 
 ## Conclusión
 En el análisis realizado se puede observar patrones interesantes en los datos de películas, permitiendo identificar los géneros más rentables, la evolución de calificaciones y la relación entre inversión y ganancias.
